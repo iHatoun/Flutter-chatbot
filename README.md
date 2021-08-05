@@ -1,6 +1,6 @@
 # Flutter Chatbot
 Speech To Text <br>
-create a flutter app <br>
+Create a flutter app <br>
 
 ![chatbot](chatbot.jpg) 
 ### Sources:
